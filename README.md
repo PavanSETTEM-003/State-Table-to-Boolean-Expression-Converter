@@ -61,10 +61,21 @@ computer. You may either copy the provided code or follow the instructions menti
 
 
 <h2>Dependencies</h2>
-The code is implemented in Python and relies on the following dependencies:
+<p>The code is implemented in Python and relies on the following dependencies:</p>
 <ol>
     <li>Python 3.x</li>
     <li>tabulate (for proper visualization of tabular data)</li>
     <li>tkinter (for creating a graphical user interface)</li>
 </ol>
+
+<h2>Installation</h2>
+<p>To install the required dependencies, you can use the following pip install commands:</p>
+
+<pre>
+<code>pip install tabulate</code>
+<code>pip install tkinter</code>
+</pre>
+
+<p>Make sure you have Python 3.x installed on your system before running these commands.</p>
+
 
