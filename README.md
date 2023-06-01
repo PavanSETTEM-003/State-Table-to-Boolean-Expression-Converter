@@ -11,9 +11,10 @@ dealing with a large number of states. Techniques like Karnaugh maps become incr
 apply as the state table grows.
 
 <h2>Solution</h2>
-To address this challenge, we have developed a state diagram to boolean expression converter that utilizes the Quine
-McCluskey method. This method offers an iterative approach for minimizing boolean expressions, which significantly
+To address this challenge, we have developed a state diagram to boolean expression converter that utilizes the 
+<b><u>"Quine McCluskey method"</u></b>. This method offers an iterative approach for minimizing boolean expressions, which significantly
 simplifies the conversion process. The key features of our solution include:
+
 
 <ul>
     <li>Automated Conversion: Our code automates the conversion process, reducing the need for manual intervention and
@@ -79,3 +80,20 @@ computer. You may either copy the provided code or follow the instructions menti
 <p>Make sure you have Python 3.x installed on your system before running these commands.</p>
 
 
+<h2>Code execution snippets</h2>
+<div style="display: flex;">
+    <img src="https://github.com/PavanSETTEM-003/State-Table-to-Boolean-Expression-Converter/assets/88257205/b5903454-c06f-42e1-beed-cf4ed3165528" alt="Screenshot 1" style="width: 50%;">
+    <img src="https://github.com/PavanSETTEM-003/State-Table-to-Boolean-Expression-Converter/assets/88257205/68f77378-0b98-4952-97f0-5a25697f0838" alt="Screenshot 2" style="width: 50%;">
+</div>
+
+
+https://github.com/PavanSETTEM-003/State-Table-to-Boolean-Expression-Converter/assets/88257205/bd619fd9-85c0-4d37-96ef-5c259f8870d4
+
+
+<h2>Conclusion:</h2>
+In summary, the State Table to Boolean Expression Converter is a valuable tool that simplifies the process of converting state tables into boolean expressions. It provides a user-friendly GUI interface and Python-based code for generating state diagrams, applying the Quine McCluskey method, and obtaining boolean expressions representing state transitions.
+
+By using this converter, developers and designers can save time and effort when working with state-based systems. It streamlines the design and analysis process, improving efficiency and enhancing understanding of complex systems.
+
+
+Try out our State Table to Boolean Expression Converter, provide feedback.
