@@ -41,15 +41,15 @@ computer. You may either copy the provided code or follow the instructions menti
 <p></p>
 <ol>
     <li>Clone the repository by running the following command in your terminal:<br>
-        <code>git clone https://github.com/your-username/state-diagram-converter.git</code>
+        <code>git clone https://github.com/PavanSETTEM-003/State-Table-to-Boolean-Expression-Converter.git</code>
     </li>
     <li>
         Navigate to the project directory:<br>
-        <code>cd state-diagram-converter</code>
+        <code>cd State-Table-to-Boolean-Expression-Converter</code>
     </li>
     <li>
         Run the code using the following command:<br>
-        <code>python state_diagram_converter.py</code>
+        <code>python State-Table-to-Boolean-Expression-Converter.py</code>
     </li>
     <li>
         Follow the prompts to provide the required inputs, including the number of states and the next state and output
